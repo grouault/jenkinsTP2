@@ -14,4 +14,4 @@ mi = str(now.minute)
 
 ss = str(now.second)
 
-print ("Date du jour 5 : " + mm + "/" + dd + "/" + yyyy + " " + hour + ":" + mi + ":" + ss)
+print ("Date du jour 6 : " + mm + "/" + dd + "/" + yyyy + " " + hour + ":" + mi + ":" + ss)
